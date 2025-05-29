@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @diablotg
+## 👋 Hi there, I'm @diablotg
 I'm a passionate learner of the open-source world, currently diving deeper into backend development and everything Linux. 🚀
 
 ---
