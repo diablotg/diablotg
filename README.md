@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm @diablotg
-I'm a passionate learner of the open-source world, currently diving deeper into backend development and everything Linux. 🚀
+- I'm a passionate learner of the open-source world, currently diving deeper into backend development  🚀
 
 ---
 
@@ -14,3 +14,5 @@ I'm a passionate learner of the open-source world, currently diving deeper into 
 ## 🛠️ Tech Stack
 
 🐧 Linux | 🐍 Python | 🌐 HTML/CSS | ⚙️ Bash | 🔄 Git | 🐘 PostgreSQL
+
+---
